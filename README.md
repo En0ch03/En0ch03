@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=en0ch03" alt="en0ch03" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/yourrocketqueen" target="blank"><img src="https://img.shields.io/twitter/follow/yourrocketqueen?logo=twitter&style=for-the-badge" alt="yourrocketqueen" /></a> </p>
+<p align="left"> <a href="https://twitter.com/en0ch_03" target="blank"><img src="https://img.shields.io/twitter/follow/yourrocketqueen?logo=twitter&style=for-the-badge" alt="yourrocketqueen" /></a> </p>
 
 - 🌱 I’m currently learning **React Native**
 
