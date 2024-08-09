@@ -1,4 +1,4 @@
-<img src="C:/Users/Yusuf Emre/Desktop/react_native.jpg" alt="react_native" width="320">
+<img src="react_native.jpg" alt="react_native" width="320">https://www.thecuneiform.com/wp-content/uploads/2024/01/MicrosoftTeams-image-56-1024x683.webp
 
 <h1 align="center">Hi 👋, I'm Yusuf Emre Doğan</h1>
 <h3 align="center">A passionate react native developer from Turkey.</h3>
