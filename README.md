@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Yusuf Emre Doğan</h1>   
 <h3 align="center">A passionate react native developer from Turkey.</h3>
 
-- 🔭 I’m currently working on **React Native**
+- 🔭 I’m currently working on **React Native** 
 
 - 📫 How to reach me **yusufemredogan.2003@gmail.com**
 
