@@ -4,8 +4,6 @@
 
 - 🔭 I’m currently working on **React Native**
 
-- 👨‍💻 All of my projects are available at [https://github.com/En0ch03](https://github.com/En0ch03)
-
 - 📫 How to reach me **yusufemredogan.2003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
