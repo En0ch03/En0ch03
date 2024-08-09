@@ -1,4 +1,4 @@
-<img align="center" src="react_native.webp" alt="react_native " height="" width="1080">
+<img align="center" src="react_native.webp" alt="react_native " height="600" width="1080">
 <h1 align="center">Hi 👋, I'm Yusuf Emre Doğan</h1>
 <h3 align="center">A passionate react native developer from Turkey.</h3>
 
