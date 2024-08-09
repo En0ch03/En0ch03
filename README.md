@@ -1,4 +1,4 @@
-<img src="./assets/image_unsplash.jpg" alt="react_native" width="320">
+<img src="./assets/react_native.jpg" alt="react_native" width="320">
 
 <h1 align="center">Hi 👋, I'm Yusuf Emre Doğan</h1>
 <h3 align="center">A passionate react native developer from Turkey.</h3>
