@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=en0ch03" alt="en0ch03" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/en0ch_03" target="blank"><img src="https://img.shields.io/twitter/follow/yourrocketqueen?logo=twitter&style=for-the-badge" alt="en0ch_03" /></a> </p>
+<p align="left"> <a href="https://twitter.com/en0ch_03" target="blank"><img src="https://img.shields.io/twitter/follow/en0ch_03?logo=twitter&style=for-the-badge" alt="en0ch_03" /></a> </p>
 
 - 🌱 I’m currently learning **React Native**
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/yourrocketqueen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yourrocketqueen" height="30" width="40" /></a>
+<a href="https://twitter.com/en0ch_03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="en0ch_03" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/yusuf emre doğan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yusuf emre doğan" height="30" width="40" /></a>
 <a href="https://instagram.com/en0ch_03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="en0ch_03" height="30" width="40" /></a>
 </p>
