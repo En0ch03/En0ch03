@@ -1,4 +1,4 @@
-<img src="C:\Users\Yusuf Emre\Desktop/react_native.jpg" alt="react_native" width="320">
+<img src="C:\Users\Yusuf Emre\Desktop\react_native.jpg" alt="react_native" width="320">
 
 <h1 align="center">Hi 👋, I'm Yusuf Emre Doğan</h1>
 <h3 align="center">A passionate react native developer from Turkey.</h3>
