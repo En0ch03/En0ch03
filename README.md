@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Joseph.;I'm+building+an+AI+Dungeon+Master.;The+AI+suggests.+The+database+decides.;The+screen+just+shows+the+damage." alt="Typing intro" />
 
-# ⚔️ JOSEPH — ENGINEER Sheet
+# ⚔️ JOSEPH — ENGINEER SHEET
 
 **Class:** Full-Stack Developer · **Subclass:** AI-Native Systems · **Base:** Türkiye 🇹🇷
 
